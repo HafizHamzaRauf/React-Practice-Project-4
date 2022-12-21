@@ -1,0 +1,22 @@
+.list {
+  background-color: aliceblue;
+  max-width: 45rem;
+  margin: 1rem auto;
+  list-style: none;
+  border-radius: 5px;
+  font-size: 1rem;
+  padding: 1rem;
+}
+
+.list li {
+  border-bottom: 1px solid rgb(192, 190, 190);
+  margin-bottom: 10px;
+  text-align: center;
+}
+.primaryHeading {
+  color: rgb(5, 5, 5);
+  text-align: center;
+  background-color: #afeb4f;
+  margin: 0 auto;
+  max-width: 45rem;
+}
